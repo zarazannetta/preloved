@@ -9,5 +9,8 @@ Preloved adalah website untuk membantu mahasiswa menjual barang yang sudah tidak
 |[Yuda Trianggara]()|G6401221064|
 |[Zara Zannetta](https://github.com/zarazannetta)|G6401221033|
 
+# Entity Relationship Diagram
+![ERD](diagram/eer-diagram-preloved.drawio.png)
 
-
+# Schematic Diagram
+![Schematic Diagram](diagram/schematic-diagram-preloved.draw.io.png)
