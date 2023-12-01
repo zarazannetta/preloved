@@ -13,4 +13,4 @@ Preloved adalah website untuk membantu mahasiswa menjual barang yang sudah tidak
 ![ERD](diagram/eer-diagram-preloved.drawio.png)
 
 # Schematic Diagram
-![Schematic Diagram](diagram/schematic-diagram-preloved.draw.io.png)
+![Schematic Diagram](diagram/schematic-diagram-preloved.drawio.png)
